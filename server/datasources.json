@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "activities": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "training-log",
+    "password": "qwe123",
+    "name": "activities",
+    "user": "root",
+    "connector": "mongodb"
   }
 }
